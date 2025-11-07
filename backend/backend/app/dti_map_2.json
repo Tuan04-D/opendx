@@ -1,0 +1,242 @@
+[
+  {
+    "province": "Đà Nẵng",
+    "pdti": 0.8002
+  },
+  {
+    "province": "Quảng Ninh",
+    "pdti": 0.7024
+  },
+  {
+    "province": "Cần Thơ",
+    "pdti": 0.6924
+  },
+  {
+    "province": "Lạng Sơn",
+    "pdti": 0.6837
+  },
+  {
+    "province": "Bắc Ninh",
+    "pdti": 0.6736
+  },
+  {
+    "province": "Thái Nguyên",
+    "pdti": 0.6469
+  },
+  {
+    "province": "Bắc Giang",
+    "pdti": 0.644
+  },
+  {
+    "province": "Nam Định",
+    "pdti": 0.639
+  },
+  {
+    "province": "Long An",
+    "pdti": 0.6386
+  },
+  {
+    "province": "Bình Phước",
+    "pdti": 0.6385
+  },
+  {
+    "province": "Hải Dương",
+    "pdti": 0.6383
+  },
+  {
+    "province": "Hải Phòng",
+    "pdti": 0.6352
+  },
+  {
+    "province": "Thanh Hóa",
+    "pdti": 0.635
+  },
+  {
+    "province": "Yên Bái",
+    "pdti": 0.635
+  },
+  {
+    "province": "Hậu Giang",
+    "pdti": 0.6342
+  },
+  {
+    "province": "Vĩnh Phúc",
+    "pdti": 0.6341
+  },
+  {
+    "province": "Bình Dương",
+    "pdti": 0.6321
+  },
+  {
+    "province": "Tiền Giang",
+    "pdti": 0.6274
+  },
+  {
+    "province": "Ninh Bình",
+    "pdti": 0.6214
+  },
+  {
+    "province": "Lâm Đồng",
+    "pdti": 0.6209
+  },
+  {
+    "province": "Phú Thọ",
+    "pdti": 0.6126
+  },
+  {
+    "province": "Hà Nội",
+    "pdti": 0.6098
+  },
+  {
+    "province": "Trà Vinh",
+    "pdti": 0.6077
+  },
+  {
+    "province": "Quảng Ngãi",
+    "pdti": 0.6033
+  },
+  {
+    "province": "Ninh Thuận",
+    "pdti": 0.5934
+  },
+  {
+    "province": "Bà Rịa - Vũng Tàu",
+    "pdti": 0.5878
+  },
+  {
+    "province": "Bình Định",
+    "pdti": 0.5845
+  },
+  {
+    "province": "Vĩnh Long",
+    "pdti": 0.5824
+  },
+  {
+    "province": "Quảng Nam",
+    "pdti": 0.5808
+  },
+  {
+    "province": "Kiên Giang",
+    "pdti": 0.5796
+  },
+  {
+    "province": "Hưng Yên",
+    "pdti": 0.5753
+  },
+  {
+    "province": "Hà Nam",
+    "pdti": 0.5743
+  },
+  {
+    "province": "Điện Biên",
+    "pdti": 0.5735
+  },
+  {
+    "province": "Sóc Trăng",
+    "pdti": 0.5731
+  },
+  {
+    "province": "Hà Tĩnh",
+    "pdti": 0.5676
+  },
+  {
+    "province": "Lào Cai",
+    "pdti": 0.5652
+  },
+  {
+    "province": "Đồng Tháp",
+    "pdti": 0.5649
+  },
+  {
+    "province": "Tây Ninh",
+    "pdti": 0.5638
+  },
+  {
+    "province": "Khánh Hòa",
+    "pdti": 0.5576
+  },
+  {
+    "province": "Đồng Nai",
+    "pdti": 0.5507
+  },
+  {
+    "province": "Sơn La",
+    "pdti": 0.5478
+  },
+  {
+    "province": "Kon Tum",
+    "pdti": 0.5438
+  },
+  {
+    "province": "Quảng Bình",
+    "pdti": 0.5415
+  },
+  {
+    "province": "Đắk Lắk",
+    "pdti": 0.5408
+  },
+  {
+    "province": "Tuyên Quang",
+    "pdti": 0.532
+  },
+  {
+    "province": "Đắk Nông",
+    "pdti": 0.5266
+  },
+  {
+    "province": "Bình Thuận",
+    "pdti": 0.5223
+  },
+  {
+    "province": "Bến Tre",
+    "pdti": 0.5077
+  },
+  {
+    "province": "Nghệ An",
+    "pdti": 0.5049
+  },
+  {
+    "province": "Lai Châu",
+    "pdti": 0.5032
+  },
+  {
+    "province": "An Giang",
+    "pdti": 0.4972
+  },
+  {
+    "province": "Quảng Trị",
+    "pdti": 0.4866
+  },
+  {
+    "province": "Thái Bình",
+    "pdti": 0.4794
+  },
+  {
+    "province": "Hà Giang",
+    "pdti": 0.479
+  },
+  {
+    "province": "Cà Mau",
+    "pdti": 0.4689
+  },
+  {
+    "province": "Phú Yên",
+    "pdti": 0.4679
+  },
+  {
+    "province": "Bạc Liêu",
+    "pdti": 0.4478
+  },
+  {
+    "province": "Cao Bằng",
+    "pdti": 0.4081
+  },
+  {
+    "province": "Gia Lai",
+    "pdti": 0.4069
+  },
+  {
+    "province": "Bắc Kạn",
+    "pdti": 0.3941
+  }
+]
